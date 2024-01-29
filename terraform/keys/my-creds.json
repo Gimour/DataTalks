@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "massive-oasis-412719",
+  "private_key_id": "272038a6b7b4b2eb0e97056d96628d71427066a6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC7VxavGR0yu9uE\nw6w0NWoRsus7CXNEFck3+ACc2cW5/koIiipbw0gXWPY1gB+ZlTXi+ZbKsllW55em\nnhHRC21SQ6jRQlUxLY8Ul5OFm8q/P4+o5pfiHAm6h2D5J15EvYXoIMGjTvTFoYZF\nkRQxsprd1d6viYwxqd0TjM2kjBnCHCWEjCE4C49tJjpWokWa6z8FZBGUn8xeL4Lv\nOhCJPRBqwK9NSW7cJ7toYzQI5fxiFeiWthcOHLJ+36rlaQMiW20xuiWkrsaujPrK\nwZQ6u/w/GQro5W4S76V2WRBoryJ/QXZ9mNMwyUVxiveDo7zcn9Bnd7sLQ2+JCH9p\nxzLWs6wDAgMBAAECggEASWYUqCPR0cfSeRDlDkuDNE4CZc4NEDbs8HXFX67fDkE4\nJmJjuDIps6QSSuHY/6Z7R2N8lgwMfsUcIJa76khs25dQtDQmBq+P6IR+sxFX/Vhc\n49L83QUZNrDF6Lho8cvDhDAZTe+obSoc3nK6E8KjdJjPt7zPZcHksT0wcPDHQspy\nuRsk6HeTyRWpZtp/5k19437gHAXuw0M3QZTYEtPvltW4IT3oDFpZH/bY+OAIQqH+\nAipclVcSl2u3zvabnNLe9zBflsckIfLiwCIS8p2DbmtRgGtLZfeA/LRQL0hjdE6U\ngng47Easxs9+XzrY59UkUaIY9IoIxvpSjpbktxCoEQKBgQDcLlLlm8gUuu1EuzbL\nia0E3fUIFHvFLEZueYBW8CzLB1t+jo0JY81T/MvcA22X1RieX+yBa5deleEf25mg\niYOQJsamL2/AUre78OZ6irBS4q3i/3PqRH40z6iRVgz3vdAKl6ZEak6LEsyG/x/7\ncT17dywyx4E9vAdeSByE/hnBiQKBgQDZ0RNL/CuWr3TTENuKzxkd60l5WumL0Gn3\nkZxRIBt2lSR+z4Zqc9pLZsQXAnqvPUvtTUk7qx5O7iAzGJTdiv1z1q9a5X3EWzmB\nx417pWm1TkYMXgt0JBOXwF6DmmtYM7WCLkM9uV9zFGUTlHbprntYVKi0xkGUBnXp\nrd7ZYCZaKwKBgFC/wHEqv6cyor+5NTBSTpzhVfLfqEC4qx/q+XFo5dST3y870mem\nLXBm3tDShQfRBBVZMqCIN9xddVG8tMvWguSEBAiAjyhmbbHEeJJqeJ39Oi5s5zL8\naZiuq7CZcWoON9UapsSihCmm/FFqEW2iqxyzqQb6eeCNK9qc8bCojAOZAoGBAKNb\nUUyYiBxP5J7zMqQNI/ozXvxbuXI5UW/xzbluCgrKWf+dJmMqFhqcrQ3QtzA8GXiU\nkQrmECoEHzQTCHqK5gD9jq/uE3+zJxL1FWAZM4lddd2Knq5w7BzQklHC+yTASy2i\nAp4FK9fEAPZJT1F8oVcizxAc7EvW+JHT66E9oiXXAoGAQy9SXy84m04JXaN4k8oT\nOsQJe96wBc64FmGHkw7UpMyJGJgd3zNDnmG0HsFIaveOVqgq1gusOQ+p6E2JYoWc\nIxTDx/UryzamMpMTJTlia7vhusmM0yuxAOq8RXrxPx9uQ11tEshcgg/jobmplD3D\nIBPnWMpqzTHZj+OJShJZB7c=\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform-runner@massive-oasis-412719.iam.gserviceaccount.com",
+  "client_id": "105166908035525560756",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform-runner%40massive-oasis-412719.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
