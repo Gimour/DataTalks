@@ -9,8 +9,9 @@ sources:
       - name: green_taxi_partitioned_clustered
       - name:
           yellow_taxi_partitioned_clustered
-          # freshness:
-          # error_after: {count: 6, period: hour}
+      - name:
+          fhv_2019
+
 
 models:
   - name: stg_green_tripdata
@@ -169,11 +170,6 @@ models:
       - name: Payment_type
         description: >
           A numeric code signifying how the passenger paid for the trip.
-        # tests:
-        #   - accepted_values:
-        #       values: "{{ var('payment_type_values') }}"
-        #       severity: warn
-        #       quote: false
       - name: payment_type_description
         description: Description of the payment_type code
       - name: Fare_amount
@@ -195,3 +191,19 @@ models:
         description: Total amount of all tolls paid in trip.
       - name: Total_amount
         description: The total amount charged to passengers. Does not include cash tips.
+
+  - name: stg_fhv_tripdata 
+    description: >
+      For-hire vehicles (FHV)
+    columns:
+      - name: dispatching_base_num
+      - name: pickup_datetime
+        description: The date and time when the meter was engaged.
+      - name: dropOff_datetime
+        description: The date and time when the meter was disengaged.
+      - name: PUlocationID
+        description: locationid where the meter was engaged.
+      - name: DOlocationID
+        description: locationid where the meter was disengaged.
+      - name: SR_Flag
+      - name: Affiliated_base_number	
